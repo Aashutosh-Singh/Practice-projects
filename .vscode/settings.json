@@ -1,0 +1,4 @@
+{
+    "inference.model": "deepseek-coder:6.7b-base-q8_0",
+    "inference.custom.format": "deepseek"
+}
